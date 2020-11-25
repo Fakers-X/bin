@@ -48,7 +48,7 @@ echo
 
 echo -e " \033[1;96m╠═▶ \033[1;92m1.Musik Mp3♫"
 
-echo -e " \033[1;96m╠═▶ \033]1;92m2.Video 360p"
+echo -e " \033[1;96m╠═▶ \033[1;92m2.Video 360p"
 
 echo -e " \033[1;96m╠═▶ \033[1;92m3.Video 480p"
 
