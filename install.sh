@@ -9,3 +9,5 @@ apt install figlet
 gem install lolcat
 pip install requests
 pip install youtube-dl
+echo "baca README.md untuk cara menggunakan"
+sleep 1
