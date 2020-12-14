@@ -6,6 +6,8 @@ apt upgrade
 apt install python -y
 apt install bash
 apt install figlet
+apt install nodejs -y
+npm install -g bash-obfuscate
 gem install lolcat
 pip install requests
 pip install youtube-dl
